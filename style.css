@@ -30,16 +30,6 @@
   font-size: 20px;
 }
 
-.dark-mode {
-  background-color: black;
-  color: white;
-}
-
-.light-mode {
-  background-color: white;
-  color: black;
-}
-
 .entrar-como {
   position: absolute;
   inline-size: 99.64px;
