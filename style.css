@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600;700&display=swap');
+@media (min-width: 992px) {
+
+  header, form, body, p, a, h4 } {
+  
+  font-size: 14px;
+  }
+
+* {
+    font-family: 'Exo 2', sans-serif;
+    cursor: pointer;
+  }
+
+  .header {
+    box-sizing: border-box;
+    left: 193px;
+    top: 1px;
+    background: #AAFAC8;
+    border: 1px solid #000000;
+    border-radius: 50px;
+    font-size: 20px;
+  }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  .entrar-como{
+position: absolute;
+inline-size: 99.64px;
+block-size: 24.49px;
+inset-inline-start: calc(50% - 99.64px/2 - 299.58px);
+inset-block-end: 818.57px;
+font-family: 'Exo 2';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+  }
+
+  .form {
+    position: relative;
+    align-items: center;
+    text-align: center;
+    inline-size: 389px;
+    block-size: 372px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    inset-inline-start: 4.5px;
+    font-size: 22px;
+    
+  }
+
+  .matricula {
+    inline-size: 227.14px;
+    block-size: 33.72px;
+    inset-inline-start: calc(50% - 227.14px/2 - 121.23px);
+    inset-block-end: 650.52px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    }
+
+    .senha {
+      inline-size: 227.14px;
+      block-size:33.72px;
+      inset-inline-start: calc(50% - 227.14px/2 - 121.23px);
+      inset-block-end: 650.52px;
+      background: #FFFFFF;
+      border: 1px solid #000000;
+      border-radius: 10px;
+      align-items: center;
+    }
+
+    .entrar{
+    box-sizing: border-box;
+    inline-size: 227.14px;
+    block-size: 37.72px;
+    inset-inline-start: calc(50% - 227.14px/2 - 125.73px);
+    inset-block-end: 374.93px;
+    background: #A288E3;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    }
+
+  .rectangle5 {
+    margin: 40px 96px 96px 450px;
+    inline-size: 400px;
+    block-size: 400px;
+    inset-inline-start: calc(50% - 481px/2 - 115.5px);
+    inset-block-end: 283px;
+    background: #AAFAC8;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.matricula-senha {
+  margin: 40px 90px 40px 90px;
+}
+    .rodape {
+    box-sizing: border-box;
+    inline-size:1360px;
+    block-size: 25px;
+    inset-inline-start: -93px;
+    inset-block-start: 1041px;
+    background: #FFFFFF;
+    border-block-start: 1px solid #000000;
+    border-radius: 0px;
+    align-items: center;
+    text-align: center;
+
+  }
+
+  
