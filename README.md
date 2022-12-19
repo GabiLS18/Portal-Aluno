@@ -8,7 +8,7 @@
 
  ## <strong> 💭 Processo e repaginação:</strong>
 
-<li>Adaptável para todas as escolas do Grupo SEB;</li>
+<li>Adaptável para todas as escolas do Grupo;</li>
 <li>Tela de login com design repaginado;</li>
 <li>Cores vivas; </li>
 <li>Fácil manuseio;</li>
