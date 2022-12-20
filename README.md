@@ -1,7 +1,7 @@
  # <center> <strong>Tela de Login - Portal do Aluno </strong>  🧑‍🏫 
 ## ✏️ <strong>Objetivo do projeto:
 
-### Repaginação para portal do aluno, trazendo uma interface com novo design, cores vivas, fácil manuseio, praticidade para o dia a dia, acesso mobile e adaptável para todas as escolas do Grupo SEB. Com intenção de melhorias, o site irá deixar a sua rotina mais fácil para acesso a suas atividades escolares.
+### Repaginação para portal do aluno, trazendo uma interface com novo design, cores vivas, fácil manuseio, praticidade para o dia a dia, acesso mobile e adaptável para todas as escolas do Grupo. Com intenção de melhorias, o site irá deixar a sua rotina mais fácil para acesso a suas atividades escolares.
 
 <br>
 
